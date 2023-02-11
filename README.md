@@ -12,7 +12,7 @@
 
 | S/N    | Name                |  Email                   | Matric number    | Language used |   Dependencies (if any)             |
 |--------|---------------------|--------------------------|------------------|---------------|-------------------------------------|
-|   1    | Benaiah Wakuma Dawi | wakumabenaiah@gmail.com  | UG/17/MDHA/1004  |   R           |                                     |
+|   1    | Benaiah Wakuma Dawi | wakumabenaiah@gmail.com  | UG/17/MDHA/1004  |   GO          |                                     |
 |   2    | Samuel Basil John   | basilsamuel@gmail.com    | UG/17/MDHA/1014  |   PHP         |                                     |
 |   3    | Aliyu Tafida        | alimasideba@gmail.com    | UG/17/MDHA/1010  |   HTML        |                                     |
 
